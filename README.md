@@ -36,6 +36,3 @@ Oyunu başlattığınızda, karakterinizin ve köpeğinizin bazı kişisel bilgi
 
 Bu projeye katkıda bulunmak isteyenler, pull request göndererek veya sorunlar bölümünde önerilerde bulunarak projeyi geliştirmeme yardımcı olabilirler.
 
-📜 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
